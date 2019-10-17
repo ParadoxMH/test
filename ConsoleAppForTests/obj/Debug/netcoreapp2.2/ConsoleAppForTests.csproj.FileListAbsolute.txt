@@ -1,0 +1,11 @@
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\bin\Debug\netcoreapp2.2\ConsoleAppForTests.deps.json
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\bin\Debug\netcoreapp2.2\ConsoleAppForTests.runtimeconfig.json
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\bin\Debug\netcoreapp2.2\ConsoleAppForTests.runtimeconfig.dev.json
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\bin\Debug\netcoreapp2.2\ConsoleAppForTests.dll
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\bin\Debug\netcoreapp2.2\ConsoleAppForTests.pdb
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\obj\Debug\netcoreapp2.2\ConsoleAppForTests.csproj.CoreCompileInputs.cache
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\obj\Debug\netcoreapp2.2\ConsoleAppForTests.AssemblyInfoInputs.cache
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\obj\Debug\netcoreapp2.2\ConsoleAppForTests.AssemblyInfo.cs
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\obj\Debug\netcoreapp2.2\ConsoleAppForTests.dll
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\obj\Debug\netcoreapp2.2\ConsoleAppForTests.pdb
+C:\Projects\Study\ConsoleAppForTests\ConsoleAppForTests\obj\Debug\netcoreapp2.2\ConsoleAppForTests.csprojAssemblyReference.cache
