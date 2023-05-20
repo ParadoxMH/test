@@ -1,1 +1,1 @@
-Commit 600 on 2024-09-19 22:09:28: Improved event handling
+Commit 600 on 2023-05-20 22:15:01: Updated documentation
