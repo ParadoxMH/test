@@ -1,1 +1,1 @@
-Commit 14 on 2023-06-21 22:09:09: Refactored code
+Commit 14 on 2024-07-24 22:14:42: Improved error handling
