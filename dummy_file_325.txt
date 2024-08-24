@@ -1,1 +1,1 @@
-Commit 325 on 2023-06-13 22:09:19: Improved event handling
+Commit 325 on 2024-08-24 22:14:52: Updated documentation
