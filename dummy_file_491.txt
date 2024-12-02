@@ -1,1 +1,1 @@
-Commit 491 on 2023-11-13 22:07:38: Fixed a minor bug
+Commit 491 on 2024-12-02 22:09:24: Improved error handling
